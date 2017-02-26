@@ -22,7 +22,7 @@ The only remaining part is to list the imported module in your application modul
 ```js
 @NgModule({
   declarations: [AppComponent, ...],
-  imports: [KeepaliveModule.forRoot({...}), ...],
+  imports: [GrowlModule.forRoot({...}), ...],
   bootstrap: [AppComponent]
 })
 export class AppModule {

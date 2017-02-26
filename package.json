@@ -1,6 +1,6 @@
 {
   "name": "ng2-growl",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Simple notifications module for angular 2",
   "main": "index.js",
   "scripts": {
